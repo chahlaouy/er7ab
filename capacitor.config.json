@@ -1,0 +1,16 @@
+{
+  "appId": "com.carpooling.project",
+  "appName": "carpooling",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 5000,
+      "androidScaleType": "CENTER_CROP",
+      "splashFullScreen": true
+      
+    }
+  },
+  "cordova": {}
+}
